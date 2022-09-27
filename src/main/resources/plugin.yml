@@ -1,0 +1,9 @@
+name: BoatDrift
+version: '${version}'
+main: org.mineice.mc.boatdrift.BoatDrift
+api-version: 1.19
+commands:
+  boatdrift:
+    aliases:
+      - bd
+    description: sus
